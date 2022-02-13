@@ -133,6 +133,7 @@ def extract_Bither(file):
 	return Wallet_Address, tx_hist
 
 
+''' Bitpay '''
 
 def extract_Bitpay(file):
 
