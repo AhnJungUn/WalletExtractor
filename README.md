@@ -4,7 +4,7 @@
 
 ## Introduction
 ```
-WalletExtractor analyze bitcoin wallet service data related to user behavior on FileSystem / Memory in Windows 10.
+WalletExtractor analyze wallet service data related to user behavior on FileSystem / Memory in Windows 10.
 ```
 
 
